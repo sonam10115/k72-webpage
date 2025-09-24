@@ -1,7 +1,5 @@
 @import "tailwindcss";
 
-<<<<<<< 
-=======
 
 @font-face {
   font-family: font1;
@@ -12,7 +10,4 @@
   font-family: font2;
   src: url(../public/fonts/Lausanne-500.woff2);
 }
-body {
-  background-color: #111;
-}
->>>>>>> afa422fb90eb0221b9047d4c98d1b735c382108b
+

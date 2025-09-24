@@ -10,7 +10,7 @@ const HomeBottomText = () => {
       >
         PROJECTS
       </Link>
-      <Link className="border-3 flex border-white rounded-full px-5 item-center pt-2 ">
+      <Link className="border-3 flex border-white rounded-full px-5 item-center pt-2  hover:border-[#D3FD50] hover:text-[#D3FD50] ">
         AGENCE
       </Link>
     </div>

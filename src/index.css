@@ -1,5 +1,10 @@
 @import "tailwindcss";
 
+<<<<<<< HEAD
+/* body{
+  background-color: black;
+} */
+=======
 
 @font-face {
   font-family: font1;
@@ -14,3 +19,4 @@
 body {
   background-color: #111;
 }
+>>>>>>> afa422fb90eb0221b9047d4c98d1b735c382108b
